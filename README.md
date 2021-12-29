@@ -15,7 +15,7 @@ pipenv shell
 
 ```
 To run the code :  
-(after adding your own path for images)
+<ins>(after adding your model and own path for images)</ins>
 ```
 
 pipenv install -r requirements.txt
