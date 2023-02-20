@@ -22,3 +22,5 @@ pipenv install -r requirements.txt
 streamlit run test.py
 
 ```
+
+Hope it helped you
